@@ -16,7 +16,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=pixellos&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Open Soruce Contributions 
+## Open Source Contributions 
 - https://github.com/papsign/Ktor-OpenAPI-Generator/pull/90
 
 
