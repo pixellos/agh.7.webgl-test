@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Code Reinvented - a fresh look on coding and related topics"
 email: code.reinvented@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-   Coding since high school. Been working for a while in financial industry. Interested in crypto and personal development. 
+description: "Following Cambridge Dictionary - Reinvent: To change someone or something so much that the person or thing seems completely new. "
 github_username: pixellos
 minimal_mistakes_skin: mint
 search: true
@@ -55,34 +54,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Mateusz Popielarz"
+  avatar : "/assets/images/2021-bio-photo-dunajec.jpg"
+  bio    : "Coding since high school. Been working for a while in financial industry. Interested in crypto and personal development."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://codereinvented.net"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/mateusz-popielarz-41a68695/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/pixellos"
 
 defaults:
   # _posts
