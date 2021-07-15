@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Mateusz Popielarz"
   avatar : "/assets/images/2021-bio-photo-dunajec.jpg"
-  bio    : "Coding since high school. Been working for a while in financial industry. Interested in crypto and personal development."
+  bio    : "Coding since high school. \n Been working for a while in financial industry. \n Interested in crypto and personal development."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -65,7 +65,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mateusz-popielarz-41a68695/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
