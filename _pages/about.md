@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Once upon a time, I was very curious what is needed to make LED blink. I was back then in electronic high-school - It's where my journey with programming started. After doing a few C programs i felt that it hadn't been enough. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Later on I started learning C#, which was magnificent - it did allow me to write more complex programs easier.
+
+During my last year in High-school I was working professionally as C# developer on IL-Weaving software.
+
+Later on, it was more or less, web development, with elements of React and TypeScript - another language i love.
+
+Last two years was working on highly scalable system, with queues, functional, idempotent code, and in a project I had influence over direction which it was going to be developed.
+
+Currently, started a company, CodeReinvented to be able to bring my game to next level as consultant.

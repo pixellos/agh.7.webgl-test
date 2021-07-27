@@ -121,4 +121,6 @@ Here we can deploy to [heroku]({% link _posts/2021-07-18-deploy-on-heroku.md %})
 > tr;dr;
 
 ```
-docker build . -t web
+heroku container:push web -a agh-train-fe
+heroku container:release web -a agh-train-fe
+```
