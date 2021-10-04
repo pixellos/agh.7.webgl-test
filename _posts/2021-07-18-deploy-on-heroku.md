@@ -23,7 +23,7 @@ toc_icon: "cog"
 
 ## Setup
 
-First we need to instal [https://devcenter.heroku.com/articles/heroku-cli#download-and-install](heroku-cli)
+First we need to instal [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
 After installing do
 
@@ -40,7 +40,7 @@ to finalize heroku local setup.
 | **Figure 1. successful login** |
 
 ## Create an app
-Go to [https://dashboard.heroku.com/apps](Heroku apps)
+Go to [Heroku apps](https://dashboard.heroku.com/apps)
 
 And click Create new app
 
