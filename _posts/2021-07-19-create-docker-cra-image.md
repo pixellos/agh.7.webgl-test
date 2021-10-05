@@ -43,6 +43,7 @@ As in Heroku we have to use `$PORT` Environmental variable we need to make our D
 I used `NGINX` for that - unfortunately we need do changes some config.
 
 > default.conf
+
 ```nginx
 server {
   listen       $PORT;
@@ -65,6 +66,7 @@ Lets prepare `Dockerfile` - remember, capital D, Heroku cli is case sensitive
 
 
 > Dockerfile
+
 ```Dockerfile
 # Use newest version of the image
 FROM node:16.5-alpine3.11 AS build
@@ -118,9 +120,9 @@ Everything should be ok at this point.
 Here we can deploy to [heroku]({% link _posts/2021-07-18-deploy-on-heroku.md %}) 
 
 
-> tr;dr;
+## tr;dr;
 
-```
+``` powershell
 heroku container:push web -a agh-train-fe
 heroku container:release web -a agh-train-fe
 ```
